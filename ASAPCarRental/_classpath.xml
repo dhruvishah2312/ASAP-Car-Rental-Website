@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Gandhali Shastri/OneDrive/Special Topics ST/jars/javax.servlet-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gandhali Shastri/OneDrive/Special Topics ST/jars/selenium-server-standalone-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gandhali Shastri/OneDrive/Special Topics ST/Slides/JUnitParams-1.0.4(2).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gandhali Shastri/OneDrive/Special Topics ST/Slides/mysql-connector-java-5.1.47.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Gandhali Shastri/OneDrive/Special Topics ST/Slides/taglibs-standard-impl-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gandhali Shastri/OneDrive/Special Topics ST/Slides/taglibs-standard-spec-1.2.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Gandhali Shastri/OneDrive/Special Topics ST/jars/junit-4.0.jar.zip"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
